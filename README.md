@@ -43,6 +43,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UdayGavada/UdayGavada/output/snake.svg" alt="Snake animation" />
-
 ###
