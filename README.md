@@ -16,6 +16,12 @@
 <div align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=EBEBEB" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=EBEBEB" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=EBEBEB" height="30" alt="c logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
