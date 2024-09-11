@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uday Gavada and I'm a Developer.</h2>
+<h2 align="left">Hi 👋! My name is Uday Gavada and I'm a Full Stack Developer.</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
